@@ -11,7 +11,7 @@
 
 6.Combine the 4 shifted letters
 """
-word = input("Type a 4 letter word")
+word = input("Type a 4 letter word: ")
 a = word[0]
 b = word[1]
 c = word[2]
